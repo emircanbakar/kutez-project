@@ -3,9 +3,9 @@ import React from 'react';
 const Card = ({ title, imageSrc, description }) => {
   return (
     <div className="card">
-      <img src={imageSrc} alt={title} />
-      <h2>{title}</h2>
-      <p>{description}</p>
+      <img className='card-img' src={imageSrc} alt={title} />
+      <p className='card-title'>{title}</p>
+      <p className='card-price'>{description}</p>
     </div>
   );
 };

@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/kutez-project/static/css/main.69ad525b.css",
+    "main.js": "/kutez-project/static/js/main.a7ba2a5c.js",
+    "static/js/787.917857b7.chunk.js": "/kutez-project/static/js/787.917857b7.chunk.js",
+    "static/media/Rectangle 9.jpg": "/kutez-project/static/media/Rectangle 9.a15dfd0bab50b8ff013f.jpg",
+    "static/media/Rectangle 2.jpg": "/kutez-project/static/media/Rectangle 2.68ad895b6365967ff8f1.jpg",
+    "static/media/Rectangle 11.jpg": "/kutez-project/static/media/Rectangle 11.7070cad9d13fc27a637d.jpg",
+    "static/media/Rectangle 10.jpg": "/kutez-project/static/media/Rectangle 10.5614c36617ad3fe57373.jpg",
+    "static/media/Rectangle 4-2.jpg": "/kutez-project/static/media/Rectangle 4-2.c21dfd42ae434413aafd.jpg",
+    "static/media/Rectangle 2-2.jpg": "/kutez-project/static/media/Rectangle 2-2.d223e94a0732091928b4.jpg",
+    "static/media/Rectangle 1-2.jpg": "/kutez-project/static/media/Rectangle 1-2.5df84f5298565c865921.jpg",
+    "static/media/Rectangle 12.jpg": "/kutez-project/static/media/Rectangle 12.20ee3b4fac082771ad81.jpg",
+    "static/media/Rectangle 1-1.jpg": "/kutez-project/static/media/Rectangle 1-1.51fefc2f26374b3fb644.jpg",
+    "static/media/Rectangle 3-1.jpg": "/kutez-project/static/media/Rectangle 3-1.6c700abc17b2252b3a09.jpg",
+    "static/media/Rectangle 2-1.jpg": "/kutez-project/static/media/Rectangle 2-1.7931809977a4f1554dd1.jpg",
+    "static/media/Rectangle 3.jpg": "/kutez-project/static/media/Rectangle 3.6431b6dabab252f224e2.jpg",
+    "static/media/Rectangle 1.jpg": "/kutez-project/static/media/Rectangle 1.bdab183155c919d13fe2.jpg",
+    "static/media/Rectangle 4-1.jpg": "/kutez-project/static/media/Rectangle 4-1.98a8be77d685c799c1f5.jpg",
+    "static/media/Rectangle 3-2.jpg": "/kutez-project/static/media/Rectangle 3-2.e4921e4e0aa78cf2c75d.jpg",
+    "static/media/Rectangle 8.jpg": "/kutez-project/static/media/Rectangle 8.5105c97dad3b82b64bc1.jpg",
+    "static/media/Rectangle 6.jpg": "/kutez-project/static/media/Rectangle 6.8ca130ce8e8b3d1a34a2.jpg",
+    "static/media/Rectangle 4.jpg": "/kutez-project/static/media/Rectangle 4.e494c9b91bc5b04e2955.jpg",
+    "static/media/Rectangle 5.jpg": "/kutez-project/static/media/Rectangle 5.88ae14f6a048ee41b9ce.jpg",
+    "static/media/Rectangle 7.jpg": "/kutez-project/static/media/Rectangle 7.3ab80842aac3d98afc1b.jpg",
+    "index.html": "/kutez-project/index.html",
+    "main.69ad525b.css.map": "/kutez-project/static/css/main.69ad525b.css.map",
+    "main.a7ba2a5c.js.map": "/kutez-project/static/js/main.a7ba2a5c.js.map",
+    "787.917857b7.chunk.js.map": "/kutez-project/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69ad525b.css",
+    "static/js/main.a7ba2a5c.js"
+  ]
+}

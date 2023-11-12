@@ -1,4 +1,5 @@
 import "./assets/style/style.css"
+import "./dist/output.css"
 import Nav from './components/Nav'
 import ProjectList from './components/ProductList'
 import Footer from './components/Footer'
